@@ -1,4 +1,30 @@
-{
-    "title": "Note 1",
-    "text": "This is a note"
-}
+[
+	{
+		"title": "This is Note 1",
+		"text": "This is an example of a note"
+	},
+	{
+		"title": "This is Note 2",
+		"text": "This is an example of a note"
+	},
+	{
+		"title": "This is Note 3",
+		"text": "This is an example of a note"
+	},
+	{
+		"title": "This is Note 4",
+		"text": "This is an example of a note"
+	},
+	{
+		"title": "This is Note 5",
+		"text": "This is an example of a note"
+	},
+	{
+		"title": "This is Note 6",
+		"text": "This is an example of a note"
+	},
+	{
+		"title": "This is Note 7",
+		"text": "This is an example of a note"
+	}
+]
